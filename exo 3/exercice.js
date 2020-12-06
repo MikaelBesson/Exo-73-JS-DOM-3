@@ -5,7 +5,9 @@ let wrongAnswer2 = answers[2];
 
 //Votre code commence ci dessous
 
-
+rightAnswer = document.getElementsByClassName('right-answer');
+wrongAnswer1 = document.getElementsByClassName('wrong-answer');
+wrongAnswer2 = document.getElementsByClassName('wrong-answer');
 
 
 

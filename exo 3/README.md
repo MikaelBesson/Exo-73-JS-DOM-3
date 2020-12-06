@@ -15,12 +15,6 @@ Traductions :
 
 
 
-II -
-Utilisez maintenant le JS pour définir le texte de handEl avec le nom de
-votre célébrité préférée et définissez une propriété CSS de famille de police qui corresponde.
-
-III -
-Utilisez finalement le JS pour définir la bordure de frameEl avec un style qui vous semble correct.
 
 
 
